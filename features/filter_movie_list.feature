@@ -31,6 +31,6 @@ Scenario: restrict to movies with "PG" or "R" ratings
   # enter step(s) to ensure that PG and R movies are visible
   # enter step(s) to ensure that other movies are not visible
 
-Scenario: all ratings selected
+#Scenario: all ratings selected
   # your steps here
-  Then complete the rest of of this scenario
+
